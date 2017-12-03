@@ -1,1 +1,9 @@
 
+STEP 1:  Refer to Scala Documentation
+https://docs.scala-lang.org/tutorials/scala-with-maven.html
+
+STEP 2: 
+mvn archetype:generate 
+*** THERE ARE CRITICAL changes to POM.XML for SCALA *** 
+please refer to SCALA_POM.XML in this Repo 
+    
