@@ -81,7 +81,7 @@
               </descriptorRefs>
               <archive>
                   <manifest>
-                      <mainClass>com.your-package.MainClass</mainClass>
+                      <mainClass>com.evds.MainClass</mainClass>
                   </manifest>
               </archive>
           </configuration>
